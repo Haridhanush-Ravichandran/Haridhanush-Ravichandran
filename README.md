@@ -1,3 +1,4 @@
+![Banner](https://github.com/haridhanush/haridhanush/blob/main/Untitled design.png)
 # 👋 Hi, I'm Haridhanush Ravichandran
 
 🎓 I'm currently pursuing my **Master’s in Data Science** at the University of Padua (UNIPD), Italy (2024–2026).

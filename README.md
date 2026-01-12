@@ -37,7 +37,7 @@
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haridhanush-ravichandran/)
-[![Email](https://img.shields.io/badge/Email-haridhanush@email.com-blue?style=flat&logo=gmail)](mailto:haridhanush.ravi@email.com)
+[![Email](https://img.shields.io/badge/Email-haridhanush.ravi@gmail.com-blue?style=flat&logo=gmail)](mailto:haridhanush.ravi@email.com)
 
 ---
 

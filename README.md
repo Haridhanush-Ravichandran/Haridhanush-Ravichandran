@@ -43,5 +43,5 @@
 
 ### 📌 Currently Working On
 
-- KRL projects for my master’s course
+- Cognition & Computation projects for my master’s course
 - Exploring real-world data problems
